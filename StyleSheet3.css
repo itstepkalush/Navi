@@ -1,0 +1,23 @@
+﻿ul {
+    list-style-type: square;
+    background-color: yellow;
+    padding: 15px;
+}
+
+    ul li {
+        background-color: white;
+        padding: 5px;
+        padding: 5px;
+        margin: 5px 0 0 35px;
+    }
+
+ol {
+    background-color:yellow ;
+    padding: 15px;
+}
+
+    ol li {
+        background-color:white;
+        padding: 5px;
+        margin: 5px 0 0 35px;
+    }
